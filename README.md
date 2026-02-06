@@ -104,9 +104,10 @@ This project is open source and free to use for learning and personal projects.
 
 ## 🙌 Author
 
-Created by **[Your Name]**
+Created by **Laiba Khan**
 
 If you like this project, consider starring the repo ⭐
+
 
 
 
